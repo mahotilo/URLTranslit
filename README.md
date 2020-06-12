@@ -4,7 +4,7 @@
 URL Translit adds link to page properies that allows current page URL transliteration 
 
 
-Many different languages, upper and lower case are supported.
+Uppercase and lowercase letters from many different languages ​​are supported.
 * Arabic
 * Armenian
 * Czech
@@ -26,7 +26,6 @@ Many different languages, upper and lower case are supported.
 * Urdu
 * Vietnamese
 
-Chinese is not supported.
 
 ## See also 
 * [Typesetter Home](http://www.typesettercms.com)
