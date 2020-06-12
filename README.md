@@ -5,26 +5,26 @@ URL Translit adds link to page properies that allows current page URL transliter
 
 
 Many different languages are supported.
-*  Arabic
-*  Armenian
-*  Czech
-*  Dhivehi
-*  Georgian
-*  Greek
-*  Latin
-*  Latvian
-*  Lithuanian
-*  Macedonian
-*  Pashto
-*  Persian / Farsi
-*  Polish
-*  Romanian
-*  Russian
-*  Turkish
-*  Ukrainian
-*  Urdu
-*  Vietnamese
+* Arabic
+* Armenian
+* Czech
+* Dhivehi
+* Georgian
 * German
+* Greek
+* Latin
+* Latvian
+* Lithuanian
+* Macedonian
+* Pashto
+* Persian / Farsi
+* Polish
+* Romanian
+* Russian
+* Turkish
+* Ukrainian
+* Urdu
+* Vietnamese
 
 Chinese is not supported.
 
