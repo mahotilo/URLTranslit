@@ -22,7 +22,8 @@ URL Translit adds link to page properies that allows current page URL transliter
 ![image](demo/dialog.png)
 
 ## License
-GPL 2, for bundled thirdparty components see the respective subdirectories.
+GPL 2.
+
 Translit pairs list base on [Sindre Sorhus transliterate](https://github.com/sindresorhus/transliterate)
 https://github.com/sindresorhus/transliterate
 
