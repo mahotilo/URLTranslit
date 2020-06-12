@@ -38,7 +38,7 @@ Uppercase and lowercase letters from many different languages ​​are supporte
 ## Manual Installation
 1. Download the [master ZIP archive](https://github.com/mahotilo/URLTranslit/archive/master.zip)
 2. Upload the extracted folder 'URLTranslit-master' to your server into the /addons directory
-3. Install using Typesetter's Admin Toolbox &rarr; Plugins &rarr; Manage &rarr; Available &rarr; URLTranslit
+3. Install using Typesetter's Admin Toolbox &rarr; Plugins &rarr; Manage &rarr; Available &rarr; URL Translit
 
 
 ## Demo
