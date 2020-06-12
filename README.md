@@ -3,6 +3,31 @@
 ## About
 URL Translit adds link to page properies that allows current page URL transliteration 
 
+
+Many different languages are supported.
+*  Arabic
+*  Armenian
+*  Czech
+*  Dhivehi
+*  Georgian
+*  Greek
+*  Latin
+*  Latvian
+*  Lithuanian
+*  Macedonian
+*  Pashto
+*  Persian / Farsi
+*  Polish
+*  Romanian
+*  Russian
+*  Turkish
+*  Ukrainian
+*  Urdu
+*  Vietnamese
+* German
+
+Chinese is not supported.
+
 ## See also 
 * [Typesetter Home](http://www.typesettercms.com)
 * [Typesetter on GitHub](https://github.com/Typesetter/Typesetter)
