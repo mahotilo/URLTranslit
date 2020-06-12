@@ -18,8 +18,8 @@ URL Translit adds link to page properies that allows current page URL transliter
 
 
 ## Demo
-### Local web server
-![image](demo/local.png)
+### Rename / Details dialog
+![image](demo/dialog.png)
 
 ## License
 GPL 2, for bundled thirdparty components see the respective subdirectories.
