@@ -1,5 +1,6 @@
 $(function(){
 
+	// list based on https://github.com/sindresorhus/transliterate
 	var TransPairs = {
 		// German umlauts
 		'ß' : 'ss',

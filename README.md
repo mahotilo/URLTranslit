@@ -23,6 +23,8 @@ URL Translit adds link to page properies that allows current page URL transliter
 
 ## License
 GPL 2, for bundled thirdparty components see the respective subdirectories.
+Translit pairs list base on [Sindre Sorhus transliterate](https://github.com/sindresorhus/transliterate)
+https://github.com/sindresorhus/transliterate
 
 ## Version history
 1.0
