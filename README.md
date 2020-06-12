@@ -4,7 +4,7 @@
 URL Translit adds link to page properies that allows current page URL transliteration 
 
 
-Many different languages are supported.
+Many different languages, upper and lower case are supported.
 * Arabic
 * Armenian
 * Czech
