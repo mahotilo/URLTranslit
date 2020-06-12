@@ -711,7 +711,7 @@ $(function(){
 
 	//do translit and apply changes
 	TranslitSlug = function(e){
-		let separator = $('#gp_space_char').val() || '-';
+		let separator = '-';
 		var $title_inp = $(e.target).closest('#gp_rename_table').find('.title_label.gpinput');
 		var $new_title_inp = $(e.target).closest('#gp_rename_table').find('.new_title.gpinput');
 		var slug = myTransliterate($new_title_inp.val())
