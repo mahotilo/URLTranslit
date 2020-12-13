@@ -51,5 +51,7 @@ GPL 2.
 List of char transliteration pairs based on [transliterate by Sindre Sorhus](https://github.com/sindresorhus/transliterate)
 
 ## Version history
+1.1 
+	- also works through Page Manager
 1.0
 	- initial release
