@@ -53,5 +53,6 @@ List of char transliteration pairs based on [transliterate by Sindre Sorhus](htt
 ## Version history
 1.1 
 	- also works through Page Manager
+
 1.0
 	- initial release
